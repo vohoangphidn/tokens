@@ -1,0 +1,11 @@
+{
+ "name": "Viet Nam Coin",
+ "website": "https://www.vinacoin.info",
+ "description": "VINA coin là đồng tiền kỹ thuật số cho cộng đồng người Việt Nam, sử dụng để trao đổi, thanh toán, trong thời đại 4.0",
+ "explorer": "https://tronscan.io/#/token20/TQSxawfbQ2A88WQUfRyUvvyhAhyq7VJVam",
+ "type": "TRC20",
+ "symbol": "VINA",
+ "decimals": 6,
+ "status": "active",
+ "id": "TQSxawfbQ2A88WQUfRyUvvyhAhyq7VJVam"
+}
